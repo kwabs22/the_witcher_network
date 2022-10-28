@@ -1,3 +1,9 @@
+# My Areas of interest
+In extracting relationships nb 
+Block 7 --> displacy style ent
+Block 4 --> Scan and put book files in one object
+
+#Thu-vu92
 # the_witcher_network
 Source code for the Witcher network project tutorial on my Youtube channel.
 
