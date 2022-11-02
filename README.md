@@ -7,6 +7,11 @@ Block 7 --> displacy style ent
 
 Block 4 --> Scan and put book files in one object
 
+In character scraping nb
+
+Selenium Chrome Browser Automation
+
+Using a dictionary to to mix multiple data
 
 
 # Thu-vu92
