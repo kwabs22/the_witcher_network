@@ -8,3 +8,5 @@ By only changing read me and Adding search bookmarks this can be achieved while 
 For me UI backwards approach is the easiest way to understand as everything else is inevitably abstract intangible concepts
 Direct UI Components = src, examples, demos, ui, pakages, etc.
 Links to ui = Assets, CSS files, etc.
+
+Changelog = Logic Flow of the Creator ==> Easier History to understand History play by play rather going back to random points as the full scope of possibilities is lost
