@@ -1,0 +1,4 @@
+Testing how an offline change is tracked
+
+Need to find a mobile client for github OR 
+put the github clone directory in cloud storage and edit find like any other to test how changes are tracked?

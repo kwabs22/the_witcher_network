@@ -1,0 +1,5 @@
+If the repository is has UI components create new function for them 
+
+while in the case of this repository try and create a UI first and then add extra options to current functionality
+
+python simplest = gradio/streamlit + HTML Snippets
